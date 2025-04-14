@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 import os
 from urllib.parse import urlparse
 
+
 load_dotenv()
 
 def get_database_config():
